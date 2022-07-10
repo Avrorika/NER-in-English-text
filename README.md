@@ -1,2 +1,2 @@
 # NER-in-English-text
-NER with spAcy.
+NER with spaCy.
